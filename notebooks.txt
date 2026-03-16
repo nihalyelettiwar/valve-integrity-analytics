@@ -1,1 +1,3 @@
-
+notebooks/01_data_ingestion_exploration.ipynb
+notebooks/02_analysis_engine.ipynb
+notebooks/03_visualisation.ipynb
